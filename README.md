@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" alt="Cardio2" width="320"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cardio2/brand-assets/main/logo-on-dark.svg"><img src="https://raw.githubusercontent.com/cardio2/brand-assets/main/logo.svg" alt="Cardio2" width="320"></picture></p>
 
 # Cardio2 brand assets
 
